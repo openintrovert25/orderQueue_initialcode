@@ -1,0 +1,37 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+* {
+    font-family: 'Montserrat', sans-serif;
+    font-optical-sizing: auto;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+:root {
+	background-color: var(--bg-primary);
+}
+
+html {
+	--bg-primary: #E7D5C0;
+	--bg-secondary: #FFF3E0;
+	--bg-outline: #E2B497;
+	--bg-disabled: #E6D5C3;
+	--tg-primary: #3B2F2F;
+	--tg-secondary: #7B5E57;
+	--tg-hovered: #E0E0E0;
+	--tg-hint: #A88E7B;
+	--tg-disabled: #CBBBAA;
+	--accent-base: #E63946;
+	--accent-hovered: #FFB703;
+	--error-background: #FFAEC1;
+	--error-foreground: #E9204F;
+	--error-hover: #86102C;
+	--success-foreground: #00B450;
+}
+
+
+/* Wag idelete tong  main css */
+
